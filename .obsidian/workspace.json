@@ -46,6 +46,36 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "a9011a3804beb3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fc0548af6ec6493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calender/Date/12 April 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "12 April 2026"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +238,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "70422191c3189622",
+  "active": "6fc0548af6ec6493",
   "lastOpenFiles": [
-    "Notes/Kafka.md",
+    "Calender/Date/12 April 2026.md",
+    "Calender/Date",
+    "Calender",
     "Untitled.base",
+    "Notes/Kafka.md",
     "[Producer.md",
     "Notes/Ports in Optical Fiber.md",
     "GMPLS.md",
