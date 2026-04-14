@@ -11,24 +11,10 @@
             "id": "9f7c7383ed19de37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calender/Date/12 April 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "12 April 2026"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -181,13 +167,24 @@
   },
   "active": "9f7c7383ed19de37",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Knowledge/Kafka",
+    "Knowledge/Optical Networking",
+    "Calender/Date/14 April 2026.md",
+    "Knowledge/Databases",
+    "Knowledge",
+    "Knowledge/Databases/RDBMS.md",
+    "ACID.md",
+    "Knowledge/Databases/ACID Properties.md",
+    "Knowledge/Databases/Isolation levels.md",
+    "Knowledge/Optical Networking/OSA.md",
+    "Calender/Date/13 April 2026.md",
     "Calender/Date/12 April 2026.md",
     "Calender/Date",
     "Calender/Untitled.md",
     "Calender",
     "Calender/Day/12 Apr 2026.md",
     "Untitled.base",
-    "Untitled.md",
     "Calender/Day",
     "Calender"
   ]
