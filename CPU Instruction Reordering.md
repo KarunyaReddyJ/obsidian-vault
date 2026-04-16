@@ -1,0 +1,1 @@
+Modern CPUs reorder instructions for maximizing throughput and minimizing the idle time.

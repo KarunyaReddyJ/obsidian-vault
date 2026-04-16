@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31195855ea9e036d",
+        "id": "cf0824e9cc2bca54",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7c7383ed19de37",
+            "id": "bd5ac177302ed915",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -165,12 +165,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f7c7383ed19de37",
+  "active": "bd5ac177302ed915",
   "lastOpenFiles": [
+    "CPU Instruction Reordering.md",
+    "Knowledge/LLD/Creational Patterns/Singleton Pattern.md",
+    "Double Checked Lock.md",
+    "Visibility Problem.md",
+    "Creational Design Pattern.md",
+    "Calender/Date/14 April 2026.md",
+    "Knowledge/Optical Networking/GMPLS.md",
+    "Knowledge/LLD/Creational Patterns",
+    "Knowledge/LLD",
+    "Myself.md",
     "Inbox.md",
     "Knowledge/Kafka",
     "Knowledge/Optical Networking",
-    "Calender/Date/14 April 2026.md",
     "Knowledge/Databases",
     "Knowledge",
     "Knowledge/Databases/RDBMS.md",
@@ -185,7 +194,6 @@
     "Calender",
     "Calender/Day/12 Apr 2026.md",
     "Untitled.base",
-    "Calender/Day",
-    "Calender"
+    "Calender/Day"
   ]
 }
